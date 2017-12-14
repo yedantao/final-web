@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat');
+body{
+  padding-top: 90px;
+}
+
+h1,h2,h3,h4,h5{
+  text-align:center;
+  color: #97c928;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+}
+.btn{background-color: #97c928;
+      color: white;
+    }
+
+.btn1{display: block; text-align: center; position: absolute; left: 500px; margin: 10px auto;}
+.btn1 a{color: white;}
+
+.stuff {display: none;}
+
+.col{
+  text-align:center;
+}
+.col-5{
+  text-align:center;
+}
+.table{
+  text-align:center;
+}
+
+.number{
+  text-align:center;
+  margin-left:10px;
+}
+
+.recipes{
+  margin-left:20px;
+}
+
+.dropdown{
+  text-align:center;
+}
+.works{
+  color: #7c7c7d;
+  text-align:center;
+}
+
+strong{
+  color: #97c928;
+}
